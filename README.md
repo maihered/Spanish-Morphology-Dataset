@@ -11,5 +11,5 @@ This notebook expects the necessary data in the Drive directory /Colab Notebooks
 
 ## References to other repositories
 The dataset has been built following the English derivation generation dataset by [Hofmann et al.(2020)](https://github.com/valentinhofmann/dagobert).<br>
-The Spanish suffixes have been obtained thanks to [MorphyNet](https://github.com/kbatsuren/MorphyNet), which also have datasets for a lot of other languages.<br>
+The Spanish suffixes have been obtained thanks to [MorphyNet](https://github.com/kbatsuren/MorphyNet), which also has datasets for a lot of other languages.<br>
 The Wikipedia texts have been processed using the tool [WikiExtractor](https://github.com/attardi/wikiextractor).
